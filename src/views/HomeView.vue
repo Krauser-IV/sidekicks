@@ -3,19 +3,19 @@
     <div class="main_wrapper">
       <comingsoon direction="right" />
       <div class="links">
-        <a href="https://twitter.com/sidekicksnft">
+        <a href="https://twitter.com/sidekicksnft" target="_blank" rel="noopener noreferrer">
           <img src="@/assets/images/twitter.svg" alt="twitter Icon" />
         </a>
-        <a href="https://www.instagram.com/sidekicksnft/">
+        <a href="https://www.instagram.com/sidekicksnft/" target="_blank" rel="noopener noreferrer">
           <img src="@/assets/images/instagram.svg" alt="instagram Icon" />
         </a>
-        <a href="https://discord.gg/Z5naKug4CP">
+        <a href="https://discord.gg/Z5naKug4CP" target="_blank" rel="noopener noreferrer">
           <img src="@/assets/images/discord.svg" alt="Discord Icon" />
         </a>
-        <a href="https://opensea.io/SideKicksNFT">
+        <a href="https://opensea.io/SideKicksNFT" target="_blank" rel="noopener noreferrer">
           <img src="@/assets/images/plat2.svg" alt="plat2 Icon" />
         </a>
-        <a href="#">
+        <a href="#" target="_blank" rel="noopener noreferrer">
           <img src="@/assets/images/plat1.svg" alt="plat1 Icon" />
         </a>
       </div>
@@ -35,7 +35,7 @@
       <comingsoon direction="left" />
     </div>
     <section>
-      <a href="https://discord.gg/Z5naKug4CP"><button>JOIN THE DISCORD</button></a>
+      <a href="https://discord.gg/Z5naKug4CP" target="_blank" rel="noopener noreferrer"><button>JOIN THE DISCORD</button></a>
     </section>
   </div>
 </template>

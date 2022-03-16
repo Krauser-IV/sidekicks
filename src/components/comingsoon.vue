@@ -45,7 +45,7 @@ export default {
       text-transform: uppercase;
       color: white;
       position: relative;
-      font-size: 1.3rem;
+      font-size: 1.8rem;
       margin-right: 10px;
       white-space: nowrap;
       font-weight: 900;
