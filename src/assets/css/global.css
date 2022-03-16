@@ -1,0 +1,58 @@
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell Black.otf");
+	font-weight: 900;
+}
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell\ Bold.otf");
+	font-weight: 800;
+}
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell\ Semibold.otf");
+	font-weight: 700;
+}
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell\ Heavy.otf");
+	font-weight: 600;
+}
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell\ Medium.otf");
+	font-weight: 500;
+}
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell\ Regular.otf");
+	font-weight: 400;
+}
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell\ Light.otf");
+	font-weight: 300;
+}
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell\ Thin.otf");
+	font-weight: 200;
+}
+@font-face {
+	font-family: hartwell;
+	src: url("../fonts/hartwell/Hartwell\ Ultralight.otf");
+	font-weight: 100;
+}
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: hartwell;
+	--bgColor: #e7edee;
+	--primaryColor: #f48620;
+	--bgDark: #c1c6c9;
+	transition: 0.2s ease-in-out;
+}
+body {
+	background: var(--bgColor);
+}
